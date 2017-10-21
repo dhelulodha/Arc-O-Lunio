@@ -1,0 +1,120 @@
+/* @override http://lostworldsfairs.com/atlantis/css/all.min.css */
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section{display:block;}
+nav ul{list-style:none;}
+blockquote, q{quotes:none;}
+blockquote:before, blockquote:after, q:before, q:after{content:'';content:none;}
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent;}
+ins{background-color:#ff9;color:#000;text-decoration:none;}
+mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold;}
+del{text-decoration:line-through;}
+abbr[title], dfn[title]{border-bottom:1px dotted;cursor:help;}
+table{border-collapse:collapse;border-spacing:0;}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0;}
+input, select{vertical-align:middle;}
+::-moz-selection{background:#fcb415;color:#fff;text-shadow:none;}
+::selection{background:#fdb515;color:#fff;text-shadow:none;}
+.ie7 img{-ms-interpolation-mode:bicubic;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{zoom:1;}
+body{font:14px/1 "proxima-nova", sans-serif;background-color:#a3ccea;color:#fff;text-transform:uppercase;}
+#txt_below span{width:20px;text-align:center;display:block;font-size:12px;line-height:14px;font-weight:700;}
+#welcomesign{}
+#txt_date{position:absolute;top:60px;left:227px;font:50px "hellenic-wide";}
+#txt_date .char3{margin-left:17px;position:absolute;bottom:5px;}
+#txt_date .char4{margin-left:70px;position:absolute;bottom:5px;}
+#txt_atlantis{font:72px "hellenic-wide";position:absolute;top:160px;left:160px;}
+#txt_atlantis:first-l
+
+
+h4{color:#fcb415;font-size:21px;font-family:"proxima-nova-extra-condensed", sans-serif;}
+h3{color:#fcb415;font-size:25px;font-family:"proxima-nova-extra-condensed", sans-serif;}
+
+.didyouknow p{text-transform:none;font-size:12px;line-height:16px;}
+
+#txt_welcomesignvert span{text-align:center;display:block;font-weight:700;font-size:44px;padding-left:58px;}
+#txt_welcomesignvert{padding-top:51px;}
+
+
+#footer p{font-size:35px;font-weight:700;padding-top:19px;padding-left:17px;text-transform:capitalize;
+	padding-bottom: 1px;
+}
+
+body{min-width:1000px;}
+.container{width:1000px;margin:0px auto;position:relative;overflow:hidden;}
+#header{position:relative;}
+#header .container{height:760px;}
+#img_ship{position:absolute;width:90%;height:165px;left:10%;top:253px;background:url(../img/imonaship.png) no-repeat left top;z-index:;}
+#img_doc{position:absolute;width:32%;height:144px;left:68%;top:315px;z-index:1;background:url(../img/doc.png) repeat-x left top;}
+#backwave{position:absolute;display:block;width:100%;top:400px;background:url(../img/bg_backwave.png) repeat-x 60% top;height:60px;}
+#frontwave{z-index:0;position:absolute;display:block;width:100%;top:433px;background:url(../img/bg_frontwave.png) repeat-x -40% top;height:27px;z-index:3;}
+#header{background:#e9ceae url(../img/sign_atlantis.png) no-repeat; }
+#depth1, #depth5, #footer{background:url(../img/tile_lightblue.jpg) repeat center top;}
+#depth1{background:url(../img/depth2_fadetop.png) repeat-x center bottom, url(../img/tile_lightblue.jpg) repeat center top;   }
+#depth2{background:url(../img/tile_midblue.jpg) repeat center 0px;}
+#depth3{background:url(../img/depth2_fadebottom.png) repeat-x center top, url(../img/tile_lightblue.jpg) repeat center top;}
+#depth4{background:url(../img/tile_darkblue.jpg) repeat center top;}
+#depth4{background:url(../img/depth4_fadetop.png) repeat-x center top, url(../img/depth4_fadebottom.png) repeat-x center bottom, url(../img/tile_darkblue.jpg) repeat center 170px;}
+#depth5{background:url(../img/tile_lightblue.jpg) repeat center top;}
+#depth2 .container{background:url(../img/illo_stingray.png) no-repeat 215px 1680px, url(../img/illo_shark2.png) no-repeat 600px 2120px, url(../img/illo_shark.png) no-repeat 640px 1090px;}
+#depth4 .container .bringFront{height:3648px;display:block;background:url(../img/dark_overlay.png) no-repeat 107px top;}
+#depth5 .container{background:url(../img/illo_stingray.png) no-repeat 215px 1680px, url(../img/illo_shark2.png) no-repeat 600px 2120px, url(../img/illo_shark.png) no-repeat 640px 1090px;}
+#header{height:460px;}
+#depth1{height:1600px;}
+#depth2{height:2860px;}
+#depth3{height:1000px;}
+#depth4{height:3648px;}
+#depth5{height:3000px;}
+#footer{height:500px;}
+#depth1{margin-top: -640px;}
+#welcomesign{margin-top:590px; margin-left:-50px;}
+#welcomesign{background:url(../img/sign_atlantis.png) no-repeat 73px top;overflow:hidden;display:block;height:600px;}
+#welcometerrarians{background:url(../img/sign_welcome.png) no-repeat 95px top;overflow:hidden;display:block;height:612px;margin-top:250px;margin-left:30px; }
+#footer{display:block;background:url(../img/bg_ground-lg.jpg) repeat-x center 437px;}
+#footer .container{margin-top:100px; background:url(../img/bubblecity.png) no-repeat center 0px;}
+#footer .bringFront{height:439px;display:block;background:url(../img/bubblefront.png) no-repeat center 0px;}
+#footer p{background:url(../img/sign.png) no-repeat;position:relative;top:-120px;left:900px;width:76px;height:159px;z-index:1900;}
+#content .bringFront{position:relative;z-index:1999;}
+#morefooter{display:block;height:221px;position:relative;z-index:1000;top:-179px;width:200px;margin:0px auto -179px;background:url(../img/bg_ground-lg.jpg) repeat-x center -3px;}
+.dyk-right{background:url(../img/dyk-bar.png) no-repeat left center;display:block;position:relative;margin-left:543px;padding-left:80px;}
+.dyk-left{display:block;background:url(../img/dyk-bar.png) no-repeat 192px center;position:relative;margin-left:180px;padding-right:80px;}
+.didyouknow{display:block;width:200px;background:#e2652e;padding:7px 8px 16px;text-align:center;margin-bottom:20px;}
+.didyouknow h3{padding:18px;margin-top:3px;z-index:30;}
+#info_1{margin-top:400px;}
+#info_2{margin-top:550px;}
+#info_3{margin-top:600px;}
+#info_4{margin-top:720px;z-index:2000;}
+#info_5{margin-top:820px;}
+#tube{position:absolute;top:230px;width:100%;min-width:1000px;z-index:5;}
+.tube_container{width:90px;margin:0px auto;overflow-y:hidden;}
+#tube_dude{position:fixed;top:180px;background:url(../img/vessel.png) no-repeat center top;height:200px;z-index:11;display:block;}
+#tube_back, #tube_front{height:11490px;}
+#tube_back{display:block;width:86px;top:23px;margin:0px auto;background:url(../img/tube_back.gif) repeat-y;z-index:10;}
+#tube_backtop{display:block;width:86px;margin:0 auto;background:url(../img/tube_backtop.png) no-repeat center top;height:30px;z-index:10;}
+#tube_fronttop{position:absolute;width:90px;margin:0px auto;background:url(../img/tube_fronttop.png) no-repeat center top;height:23px;z-index:12;top:8px;}
+#tube_frontbottom{position:relative;width:90px;margin:-50px auto 0px;background:url(../img/tube_bottom.png) no-repeat center bottom;height:80px;z-index:12;}
+#tube_front{position:absolute;width:90px;margin:0px auto;background:url(../img/tube_front.png) repeat-y center top;background:url(../img/tube_front.png) repeat-y center top;z-index:12;top:31px;}
+#tube_overlay{z-index:500;position:absolute;display:block;width:90px;top:53px;background:url(../img/tube_overlay.png) no-repeat -120px top;height:49px;}
+#txt_below{background:url(../img/bg_arrow.png) no-repeat;height:368px;width:50px;margin:0px auto;padding-top:39px;top:40px;position:relative;}
+#txt_below span{width:50px;}
+#txt_k{font-size:31px;font-weight:bold; color: #f9a980;}
+@media screen and (max-width:1000px){
+ body {
+	overflow-x: hidden;
+}
+	#welcomesign {
+		margin-top: 0px;
+		margin-left: 0px;
+	}
+	#countdown {
+		left:50%;
+	}
+	#welcometerrarians{
+		left:5%;
+
+	}
+	.fish {
+	display: none;
+	}
+}

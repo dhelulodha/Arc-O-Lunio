@@ -1,0 +1,82 @@
+@font-face {
+	font-family: 'cosy';
+	src:url('fonts/cosy46f9.eot?726wjs');
+	src:url('fonts/cosyd41d.eot?#iefix726wjs') format('embedded-opentype'),
+		url('fonts/cosy46f9.woff?726wjs') format('woff'),
+		url('fonts/cosy46f9.ttf?726wjs') format('truetype'),
+		url('fonts/cosy46f9.svg?726wjs#cosy') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon4-"], [class*=" icon4-"] {
+	font-family: 'cosy';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon4-noun_7231:before {
+	content: "\e612";
+}
+.icon4-chevrons:before {
+	content: "\e600";
+}
+.icon4-cross92:before {
+	content: "\e601";
+}
+.icon4-down126:before {
+	content: "\e602";
+}
+.icon4-eyeball5:before {
+	content: "\e603";
+}
+.icon4-facebook23:before {
+	content: "\e604";
+}
+.icon4-fullscreen6:before {
+	content: "\e605";
+}
+.icon4-google116:before {
+	content: "\e606";
+}
+.icon4-heart365:before {
+	content: "\e607";
+}
+.icon4-instagram12:before {
+	content: "\e608";
+}
+.icon4-leftarrow23:before {
+	content: "\e609";
+}
+.icon4-pause49:before {
+	content: "\e60a";
+}
+.icon4-pinterest3:before {
+	content: "\e60b";
+}
+.icon4-play87:before {
+	content: "\e60c";
+}
+.icon4-shop34:before {
+	content: "\e60d";
+}
+.icon4-shopping111:before {
+	content: "\e60e";
+}
+.icon4-squares30:before {
+	content: "\e60f";
+}
+.icon4-twitter1:before {
+	content: "\e610";
+}
+.icon4-up7:before {
+	content: "\e611";
+}
